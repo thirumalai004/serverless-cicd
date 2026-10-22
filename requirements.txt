@@ -1,0 +1,2 @@
+# Runtime dependencies for the Lambda function go here (one per line).
+# Leave empty if the function only uses the Python standard library.

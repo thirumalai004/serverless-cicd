@@ -1,0 +1,7 @@
+venv/
+package/
+function.zip
+out.json
+__pycache__/
+.pytest_cache/
+*.pyc
