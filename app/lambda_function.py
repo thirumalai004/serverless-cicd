@@ -7,6 +7,6 @@ def lambda_handler(event, context):
         "headers": {"Content-Type": "application/json"},
         "body": json.dumps({
             "message": "Hello from Lambda deployed by Jenkins!",
-            "version": "v2"
+            "version": "v3"
         })
     }
